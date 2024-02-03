@@ -1,0 +1,36 @@
+{
+  "languages": ["de", "en"],
+  "defaultLanguage": "en",
+  "de": {
+    "id": "de",
+    "name": "Deutsch",
+    "isoAlpha2": "de",
+    "heading": "Axel Herrmann",
+    "subheading": "Software Engineer",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+
+    "home": "Home",
+    "education": "Bildungsweg",
+    "experience": "Erfahrung",
+    "skills": "Kenntnisse",
+    "about": "Über",
+    "contact": "Kontakt"
+  },
+  "en": {
+    "id": "en",
+    "name": "English",
+    "isoAlpha2": "us",
+    "heading": "Axel Herrmann",
+    "subheading": "Software Engineer",
+    "showMore": "Show more",
+    "showLess": "Show less",
+
+    "home": "Home",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "about": "About",
+    "contact": "Contact"
+  }
+}
