@@ -24,5 +24,5 @@ jobs:
       - name: Commit updated submodule
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Release ${{ github.event.client_payload.version }}
+          commit_message: Update core to ${{ github.event.client_payload.version }}
           token: ${{ secrets.PAT }}
