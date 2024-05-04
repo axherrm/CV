@@ -22,7 +22,13 @@
       "heading": "Bachelor-Thesis",
       "subheading": "levigo solutions, Holzgerlingen",
       "date": "09/2023 – 03/2024",
-      "content": "Insgesamt ein halbes Jahr habe ich bei levigo solutions meine Bachelorthesis über das Thema <i>Refactoring von Microservices- Architekturen: Eine industrielle Fallstudie</i> geschrieben. Dabei habe ich weiter an der Architektur des Produkts jadice flow entwickelt. Die Thesis wird in Zukunft öffentlich zu finden sein."
+      "content": "Insgesamt ein halbes Jahr habe ich bei levigo solutions meine Bachelorthesis über das Thema <i>Refactoring von Microservices- Architekturen: Eine industrielle Fallstudie</i> geschrieben. Dabei habe ich weiter an der Architektur des Produkts jadice flow entwickelt. Die Thesis wurde mit 1.0 bewertet und wird in Zukunft öffentlich zu finden sein."
+    },
+    {
+      "heading": "Associate Developer",
+      "subheading": "SAP SE, Walldorf",
+      "date": "04/2024 – akutell",
+      "content": "Ich arbeite seit April in Vollzeit bei SAP SE als Teil des Steampunk-Teams an dem Produkt BTP ABAP."
     }
   ],
   "en": [
@@ -48,7 +54,13 @@
       "heading": "Bachelor Thesis",
       "subheading": "levigo solutions, Holzgerlingen",
       "date": "09/2023 – 03/2024",
-      "content": "I spent a total of six months at levigo solutions writing my bachelor's thesis on the topic of <i>Refactoring Microservices Architectures: An Industrial Case Study</i>. I continued to develop the architecture of the jadice flow product. The thesis will be publicly available in the future."
+      "content": "I spent a total of six months at levigo solutions writing my bachelor's thesis on the topic of <i>Refactoring Microservices Architectures: An Industrial Case Study</i>. I continued to develop the architecture of the jadice flow product. The thesis was graded 1.0 and will be publicly available in the future."
+    },
+    {
+      "heading": "Associate Developer",
+      "subheading": "SAP SE, Walldorf",
+      "date": "04/2024 – now",
+      "content": "Since April I'm working full-time at SAP SE as part of the Steampunk team on the BTP ABAP product."
     }
   ]
 }
