@@ -33,9 +33,16 @@
       "icon": "pi-server",
       "skills": [
         {
+          "id": "node",
+          "name": "NodeJS",
+          "rating": 80,
+          "text": "",
+          "subSkills": ["Typescript"]
+        },
+        {
           "id": "java",
           "name": "Java",
-          "rating": 80,
+          "rating": 70,
           "text": "Den Großteil meiner Erfahrung habe ich mit Java gesammelt. Abgesehen davon, dass es die erste Sprache war, die ich gelernt habe, wurde sie in den meisten meiner Vorlesungen sowie einigen Projektarbeiten in meinem Studiengang verwendet. Außerdem habe ich in meinen 1,5 Jahren als Werkstudent bei levigo solutions hauptsächlich in Java geschrieben und dabei mit Frameworks wie SpringBoot, Apache Camel und anderen gearbeitet. Ich finde mich schnell zurecht, kenne viele Konventionen und Best Practices und nutze die Sprache gerne.",
           "subSkills": ["SpringBoot", "Apache Camel", "Maven", "Gradle"]
         },
@@ -185,9 +192,16 @@
       "icon": "pi-server",
       "skills": [
         {
+          "id": "node",
+          "name": "NodeJS",
+          "rating": 80,
+          "text": "",
+          "subSkills": ["Typescript"]
+        },
+        {
           "id": "java",
           "name": "Java",
-          "rating": 80,
+          "rating": 70,
           "text": "I gained most of my experience with Java. Apart from the fact that it was the first language I learned, it was used in most of my lectures as well as some project work in my degree program. In addition, during my 1.5 years as a working student at levigo solutions, I mainly wrote in Java and worked with frameworks such as SpringBoot, Apache Camel and others. I find my way around quickly, know many conventions and best practices and enjoy using the language.",
           "subSkills": ["SpringBoot", "Apache Camel", "Maven", "Gradle"]
         },
@@ -302,8 +316,5 @@
         }
       ]
     }
-  ],
-  "TODO:remove": [
-    "Docker", "Kubernetes", "GitHub Actions", "SQL", "Swift", "SwiftUI"
   ]
 }

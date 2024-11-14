@@ -29,7 +29,7 @@
   "de": {
     "conversationStart": [
       "Wie gefällt Ihnen diese Webseite?",
-      "Ich freue mich über jegliches Feedback und Jobangebote."
+      "Ich freue mich über jegliches Feedback!"
     ],
     "successMessages": [
       "Vielen Dank für Ihre Nachricht.",
@@ -48,7 +48,7 @@
   "en": {
     "conversationStart": [
       "How did you like my website?",
-      "I look forward to any feedback and business inquiries."
+      "I look forward to any feedback!"
     ],
     "successMessages": [
       "Thank you for your message.",
